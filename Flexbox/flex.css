@@ -1,0 +1,26 @@
+.parent{
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.child{
+    text-align: center;
+    height: max-content;
+    border: 1px dotted black;
+}
+#class1 {
+    flex-basis: 250;
+    flex-grow: 1;
+}
+#class2 {
+    flex-basis: 250;
+    flex-grow: 2;
+}
+#class3 {
+    flex-basis: 250;
+    flex-grow: 1;
+}

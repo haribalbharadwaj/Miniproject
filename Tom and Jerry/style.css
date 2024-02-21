@@ -1,0 +1,41 @@
+body{
+    background-color: #FFCD9E;
+    display: flex;
+    width: 562;
+    height: 108;
+    top: 83;
+    left: 136;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: left;}
+ paragraph{
+    width: 495;
+    height: 81;
+    top: 219;
+    left: 136;
+    font-family: Inter;
+    font-size: 20;
+    font-weight: 500;
+    line-height: 32;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#484848;
+}
+footer{
+    background-color: #282828;
+    width: 216;
+height: 36;
+top: 654;
+left: 191;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;}
+
+/* Rectangle 11 */

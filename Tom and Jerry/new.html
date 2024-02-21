@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      display: flex;
+      width: 1440px;
+      height: 298px;
+      background-color: #282828;
+;
+    }
+
+    .left-side {
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+      box-sizing: border-box; /* Include padding and border in the total width */
+      color: #FFFFFF;
+      text-align: left;
+    }
+
+    .R1 {
+      position: absolute;
+      top: 690;
+      left: 191px;
+      bottom: 0;
+      height:180px;
+      width: 216px; /* Adjust the width of the rectangle as needed */
+      background-color:#282828; /* Optional: Add background color for the rectangle */
+    }
+
+    .R2 {
+      position: absolute;
+      top: 798;
+      left: 1015px;
+      bottom: 0;
+      height:180;
+      width: 232; /* Adjust the width of the rectangle as needed */
+      background-color:#282828; /* Optional: Add background color for the rectangle */
+    }
+
+
+    .right-side {
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+      box-sizing: border-box; /* Include padding and border in the total width */
+      color: #FFFFFF;
+      text-align: right;
+      left:1099px;
+    }
+
+    .element {
+      /* Add styling for your elements */
+      margin: 5px;
+      padding: 10px;
+      box-sizing: border-box; /* Include padding and border in the total width */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="left-side">
+        <div class="R1">
+            <!-- 4 elements on this side -->
+            <div class="element">Prompt Generator</div>
+            <div class="element">Dweep Daily</div>
+            <div class="element">All Contributors</div>
+            <div class="element">Your data on Dweep.io</div>
+            <div class="element">Contribute to Dweep</div>
+        </div>
+    </div>
+    <div class="right-side">
+      <!-- 5 elements on this side -->
+      <div class="R2">
+            <div class="element">Dweep.io</div>
+            <div class="element">Made with love in India</div>
+            <div class="element">
+                <img src="/Tom and Jerry/LinkedinLogo.png">
+                <img src="/Tom and Jerry/InstagramLogo.png">
+            </div>
+
+            <div class="element"> </div>
+            <div class="element">hello@dweep.io</div>
+      </div>
+    </div>
+    
+  </div>
+
+</body>
+</html>
