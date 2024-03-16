@@ -1,0 +1,199 @@
+.body{background-color:blue}
+
+.fixed{
+    width: 1728px;height: 127px;background: #6F6AF7;position: -webkit-sticky; /* For Safari */
+    position: sticky;top:0;z-index: 100;
+    }
+.F1{
+    width: 215px;height: 63px;top: 27px; left: 44px;font-family: Delius Unicase, sans-serif;font-size: 61.43px;
+    font-weight: 700px;line-height: 71.81px;letter-spacing: 0em;text-align: left;color: #FFFFFF;
+}
+.F2{width: 102px;height: 33px;top: 42px;left: 412px;font-family: DM Sans, sans-serif;size: 38.43px;
+    font-weight: 400px;line-height: 47.43px;letter-spacing: 0em;text-align: left;
+    color: #FFFFFF;position:absolute;
+}
+
+.F3{
+    width: 157px;height: 36px;top: 41px;left: 561px;font-family: DM Sans, sans-serif;size:38.43px;
+    font-weight: 400px;line-height: 47.43px;letter-spacing: 0em;text-align: left;
+    color: #FFFFFF;position: absolute;
+    }
+
+.F4{
+    width: 199px;height: 36px;top: 41px;left: 764px;font-family: DM Sans, sans-serif;size: 38.43px;
+    font-weight: 400px;line-height: 47.43px;letter-spacing: 0em;text-align: left;
+    color: #FFFFFF;position:absolute;
+    }
+
+.F5{
+     width: 89px;height: 36px;top: 41px;left: 1009px;font-family: DM Sans, sans-serif;size: 38.43px;
+     font-weight: 400px;line-height: 47.43px;letter-spacing: 0em;text-align: left;
+     color: #FFFFFF;position:absolute;
+    }
+
+.F6{
+    width: 7.77px;height: 14px;top: 69.91px;left: 1050px; rotation:90 deg; angle: 90 deg;
+    color: #FFFFFF; position: absolute;
+
+    }
+
+.F7{
+    width: 314;height: 57px;top: 36px;left: 1171px; border-radius:63px; background: #FFFFFF;
+    position: absolute;display: flex; flex-wrap: wrap; flex-direction: row;
+}
+
+.F8{
+    width: 119px;height: 23px;top: 15px;left: 1196px;font-family: DM Sans, sans-serif;
+    font-size: 24px;font-weight: 400px;line-height: 32px;letter-spacing: 0em;
+    text-align: left;color: #9F9F9F; text-align: center;
+}
+
+.F9{
+    width: 26px;height: 26px;color: #ADADAD;top: 51px ;left: 1440px; 
+}
+
+.F10{ width: 67px;height: 46.61px;top: 38.84px;left: 1608px;color: #FFFFFF;position: absolute;}
+
+.F11{ width: 1542px;height: 1695px;top: 289px;left: 101px;border: Mixed solid #FFFFFF;}
+
+.F12{
+    width: 456px;height: 507px;top: 289px;left: 129px;border-radius: 20px;position: absolute;
+}
+.F13{
+width: 972px;height: 507px;top: 289px;left: 634px;border-radius: 20px;border: 6px;background:#E5D8FF;
+border: 6px solid #FFFFFF;box-shadow: 3px 5px 27px 0px #00000040 inset;position: absolute;
+}
+
+.F14{
+width: 922px;height: 83px;top: 318px;left: 668px;font-family: DM Sans ,sans-serif;font-size: 29px;
+font-weight: 400;line-height: 52px;letter-spacing: 0em;text-align: left;color: #6F7373;
+margin: 20px;
+}
+
+.F15{
+width: 337px;height: 145.48px;top: 933px;left: 101px;border-radius: 11px;background: #929DFF;
+box-shadow: 0px 9px 31px 0px #00000066;position: absolute;
+}
+
+.F16{width: 244px;height: 36px;top: 953px;left: 129px;font-family: DM Sans,sans-serif;font-size: 29px;font-weight: 700;
+    line-height: 51.82px;letter-spacing: 0.04em;text-align: left;color: #FFFFFF;padding:10px
+}
+
+.F17{width: 142px;height: 35px;top: 1011px;left: 129px;font-family: DM Sans,sans-serif; font-size: 28px; font-weight: 700; line-height: 50.04px;
+    letter-spacing: 0.04em;text-align: left;color:#FFFFFF;padding:10px
+}
+
+.F18{
+width: 337px;height: 145.48px;top: 933px;left: 497px;border-radius: 11px;background: #734CF2;
+box-shadow: 0px 9px 31px 0px #00000066;position: absolute;
+}
+
+.F19{
+width: 237px;height: 36px;top: 953px;left: 524px;font-family: DM Sans,sans-serif;font-size: 29px;
+font-weight: 700;line-height: 52px;letter-spacing: 0.04em;text-align: left;color: #FFFFFF;padding:10px;
+}
+
+.F20{
+ width: 142px;height: 35px;top: 1011px;left: 524px;font-family: DM Sans ,sans-serif;
+ font-size: 28px;font-weight: 700;line-height: 50px;letter-spacing: 0.04em;
+ text-align: left;color: #FFFFFF;padding:10px;
+}
+
+.F21{
+width: 337px;height: 145px;top: 933px;left: 893px;border-radius: 11px;background: #D288FF;
+box-shadow: 0px 9px 31px 0px #00000066;position: absolute;
+}
+.F22{
+width: 237px;height: 36px;top: 953px;left: 920px;font-family: DM Sans ,sans-serif;
+font-size: 29px;font-weight: 700;line-height: 52px;letter-spacing: 0.04em;text-align: left;
+color: #FFFFFF;padding:10px;
+}
+
+.F23{
+width: 142px;height: 35px;top: 1011px;left: 920px;font-family: DM Sans,sans-serif;
+font-size: 28px;font-weight: 700;line-height: 50px;letter-spacing: 0.04em;text-align: left;
+color: #FFFFFF;padding:10px;
+}
+
+.F24{
+width: 337px;height: 145.48px;top: 933px;left: 1289px;border-radius: 11px;background: #000000;
+box-shadow: 0px 9px 31px 0px #00000066;position: absolute;
+}
+
+.F25{
+width: 237px;height: 36px;top: 953px;left: 1316px;font-family: DM Sans, sans-serif;
+font-size: 29px;font-weight: 700px;line-height: 52px;letter-spacing: 0.04em;text-align: left;
+color:#FFFFFF;padding: 10px;
+}
+
+.F26{
+width: 142px;height: 35px;top: 1011px;left: 1316px;font-family: DM Sans,sans-serif;
+font-size:28px;font-weight: 700px;line-height: 50px;letter-spacing: 0.04em;text-align: left;
+color:#FFFFFF;padding: 10px;
+}
+
+.F27{
+width: 1542px;height: 717px;top: 1267px;left: 101px;border-radius: 21px;background: #483EFF;position: absolute;
+display: flex;justify-content: space-between;
+flex-wrap: wrap;flex-direction: column;flex-basis: auto;padding: 20px;
+}
+
+.F28{width: 397px;height: 133px;top: 1340px;left: 153px;border-radius: 22px;background: #BCE0F6;
+    box-shadow: 0px 6px 35px 0px #00000063;padding: 10px;}
+
+.F29{width: 196px;height: 43px;top: 1378px;left: 249px;font-family: DM Sans,sans-serif;
+    font-size: 35px;font-weight: 700;line-height: 63px;letter-spacing: 0.04em;text-align: left;
+    color: #000000;}
+
+.F30{width: 397px; height: 133px;top: 1555px;left: 153px;border-radius: 22px;border: 5px;
+    border: 5px solid #FFFFFF;padding: 20px;}
+
+.F31{width: 234px;height: 43px;top: 1591px;left: 234px;font-family: DM Sans,sans-serif;
+    font-size: 35px;font-weight: 700;line-height: 63px;letter-spacing: 0.04em;
+    text-align: left;color: #FFFFFF;padding: 20px;}
+
+.F32{width: 397px;height: 133px;top: 1770px;left: 153px;border-radius: 22px;border: 5px;
+    border: 5px solid #FFFFFF;padding: 20px;}
+
+.F33{width: 176px;height: 43px;top: 1806px;left: 263px;font-family: DM Sans,sans-serif;
+    font-size: 35px;font-weight: 700px;line-height: 63px;letter-spacing: 0.04em;
+    text-align: left;color: #FFFFFF;}
+
+.F34{width: 1004px; height: 656px;top: 1298px;left: 612px;border-radius: 19px;background: #FFFFFF;
+    padding: 20px;display: flex;flex-wrap: wrap;flex-direction: column;justify-content:space-around;
+}
+
+.F35{width: 370px;height: 36px; top: 1370px;left: 666px;font-family: Inter;
+    font-size: 38px;font-weight: 700px;line-height: 46px;letter-spacing: 0.105em;
+    text-align: left;color: #04285A;}
+
+.F36{width: 350px;height: 26px;top: 1463px;left: 696px;font-family: Roboto;
+    font-size: 28px;font-weight: 500px;line-height: 33px;letter-spacing: 0.105em;
+    text-align: left;color: #04285A;
+}
+
+.F37{width: 400px;height: 26px;top: 1526px;left: 696px;font-family: Roboto; font-size: 28px;
+    font-weight: 500px;line-height: 33px;letter-spacing: 0.105em;text-align: left;
+    color: #04285A;
+}
+.F38{width: 400px;height: 26px;top: 1591px;left: 696px;font-family: Roboto;
+    font-size: 28px;font-weight: 500px;line-height: 32.81px;letter-spacing: 0.105em;
+    text-align: left;color: #04285A;
+}
+
+.F39{width: 400px;height: 26px;top: 1656px;left: 696px;font-family: Roboto;
+    font-size: 28px;font-weight: 500;line-height: 32.81px;letter-spacing: 0.105em;text-align: left;
+    color: #04285A;}
+
+.F40{width: 207px; height: 78px;top: 1840px;left: 200px;border-radius: 9px;background: #000000;
+    text-align: right;
+
+}
+
+.F41{width: 67px;height: 28px;top: 1862px;left: 200px;font-family: Roboto;font-size: 30px;
+    font-weight: 400;line-height: 35.16px;letter-spacing: 0.05em;text-align:center;
+    color: #FFFFFF;}
+
+.F42{ width:38px;top: 1880px;left: 1476px;border: 3px;angle: -0 deg;border: 3px solid #FFFFFF;
+     text-align: right; }
+
